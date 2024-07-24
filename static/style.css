@@ -1,5 +1,5 @@
 body{
-    background-color: orange;
+    background-color: #ffc87c;
     text-align: center;
 }
 input[type=file] {
@@ -9,16 +9,19 @@ img {
     width:70%;
     }
 
-h3{
-    color:green;
+h2, h3{
+    color: #8fbc8f;
+    font-family: "Nanum Pen Script", cursive;
     }
 
 h1{
     font-weight: bold;
+    font-family: "Indie Flower", cursive;
+    color:#ec5800;
     }
 
 hr{
-    border: 5px solid black;
+    border: 5px solid #1c352d;
     border-radius: 5px;
     }
 
